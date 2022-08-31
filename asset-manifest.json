@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.57afc835.css",
-    "main.js": "/static/js/main.51e45186.js",
+    "main.css": "/static/css/main.bb5450e3.css",
+    "main.js": "/static/js/main.ccf9ed4f.js",
     "static/media/lading.png": "/static/media/lading.77f35d6cd49e55afcc40.png",
     "static/media/Cstory.png": "/static/media/Cstory.02986411eac3125e34a1.png",
+    "static/media/container.png": "/static/media/container.c6f2be9e6748029118e4.png",
     "static/media/MitSITE.png": "/static/media/MitSITE.349fdac798a2e45504e7.png",
     "static/media/yo.jpeg": "/static/media/yo.27926f5e61950a937806.jpeg",
+    "static/media/Surveys.png": "/static/media/Surveys.42257b0185d4087a44ee.png",
     "static/media/faucet.png": "/static/media/faucet.8e28fb69e2ce0c50f9a9.png",
     "static/media/cashier.png": "/static/media/cashier.07418a6c5dfe267716f3.png",
     "static/media/logo512.png": "/static/media/logo512.3b1a458c9ad0bfa9f4ca.png",
     "static/media/logo.png": "/static/media/logo.72ec741a714da8cd73db.png",
     "index.html": "/index.html",
-    "main.57afc835.css.map": "/static/css/main.57afc835.css.map",
-    "main.51e45186.js.map": "/static/js/main.51e45186.js.map"
+    "main.bb5450e3.css.map": "/static/css/main.bb5450e3.css.map",
+    "main.ccf9ed4f.js.map": "/static/js/main.ccf9ed4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.57afc835.css",
-    "static/js/main.51e45186.js"
+    "static/css/main.bb5450e3.css",
+    "static/js/main.ccf9ed4f.js"
   ]
 }
