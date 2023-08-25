@@ -14,17 +14,12 @@ export default function Footer() {
                     <span class="sr-only">Github</span>
                 </a>
 
-                <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-400 hover:bg-blue-400 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/esaug?tab=repositories">     
+                <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-400 hover:bg-blue-400 rounded-full hover:text-white transition-colors duration-300" href="https://www.linkedin.com/in/esauguerrar/">     
                     <FaLinkedinIn/>
                     <span class="sr-only">Linkeding</span>     
                 </a>
 
-                <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/esaug?tab=repositories">
-                    <FaTwitter/>
-                    <span class="sr-only">Twitter</span>
-                </a>
-
-                <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-orange-800 hover:bg-orange-800 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/esaug?tab=repositories">
+                <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-orange-800 hover:bg-orange-800 rounded-full hover:text-white transition-colors duration-300" href="mailto:me.esauguerra1@gmail.com">
                      <FaEnvelope/>
                     <span class="sr-only">Email</span>
                 </a>
