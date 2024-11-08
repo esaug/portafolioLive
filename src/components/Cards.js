@@ -1,6 +1,6 @@
 import React from "react"
-import profile from "../images/yo.jpeg"
-import {FaGithub, FaLinkedinIn, FaTwitter, FaEnvelope } from "react-icons/fa"
+import profile from "../images/sau.jpeg"
+import {FaGithub, FaLinkedinIn, FaEnvelope } from "react-icons/fa"
 
 function Card(){
     return(
@@ -24,7 +24,8 @@ function Card(){
                     
                     <div className=" flex align-center justify-center mt-4">
                         
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/esaug?tab=repositories">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" 
+                            href="https://github.com/esaug">
                             
                             <FaGithub/>
                             <span class="sr-only">Github</span>
@@ -40,7 +41,8 @@ function Card(){
                         </a>
 
 
-                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-orange-800 hover:bg-orange-800 rounded-full hover:text-white transition-colors duration-300" href="mailto:me.esauguerra1@gmail.com">
+                        <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-orange-800 hover:bg-orange-800 rounded-full hover:text-white transition-colors duration-300" 
+                            href="mailto:me.esauguerra1@gmail.com">
                             
                             <FaEnvelope/>
                             <span class="sr-only">Email</span>
