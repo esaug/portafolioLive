@@ -38,12 +38,12 @@ export const projects = [
       img: Cosmic,
     },
     {
-      title: "Isipay App mobile video",
+      title: "Isipay Exchange App mobile video",
       link: "https://youtu.be/ejN_5aWraio?si=Suuq-1RGiX2eZKVn",
       img: Isipay,
     },
     {
-      title: "Isipay Web",
+      title: "Isipay Exchange Web",
       link: "https://isi-web.vercel.app/auth",
       img: Isipay,
     }
